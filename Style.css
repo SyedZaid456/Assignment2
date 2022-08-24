@@ -1,0 +1,18 @@
+h1 {
+  color: rgb(231, 118, 13);
+}
+h2 {
+  color: rgb(65, 150, 79);
+}
+h3 {
+  color: rgb(218, 233, 7);
+}
+h4 {
+  color: teal;
+}
+div h1,
+div h2,
+div h3,
+div h4 {
+  color: rgb(20, 41, 133);
+}
