@@ -1,0 +1,33 @@
+.myClass {
+  background-color: black;
+  color: rgb(69, 131, 53);
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 14px;
+  border: 10px solid rgb(10, 40, 138);
+  border-radius: 25px;
+}
+
+.myColors {
+  background-color: black;
+  color: rgb(185, 230, 26);
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 14px;
+  border: 10px solid rgb(228, 11, 199);
+  border-radius: 25px;
+}
+.myGreatColors {
+  background-color: black;
+  color: rgb(69, 131, 53);
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 14px;
+  border: 10px solid rgb(10, 40, 138);
+  border-radius: 25px;
+}
+.MyGoodColors {
+  background-color: black;
+  color: rgb(185, 230, 26);
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 14px;
+  border: 10px solid rgb(228, 11, 199);
+  border-radius: 25px;
+}
