@@ -69,6 +69,7 @@ h2 {
   border-radius: 50%;
 }*/
 .div-1 {
+  background-color: transparent;
   display: inline-block;
   margin-right: 30px;
   color: #e5e7eb;
@@ -76,6 +77,7 @@ h2 {
   align-content: right;
 }
 .div-2 {
+  background-color: transparent;
   display: inline-block;
   color: #e5e7eb;
   text-align: right;
@@ -83,6 +85,7 @@ h2 {
   margin-right: 30px;
 }
 .div-3 {
+  background-color: transparent;
   color: #e5e7eb;
   display: inline-block;
   text-align: right;
